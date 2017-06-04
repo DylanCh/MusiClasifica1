@@ -11,3 +11,4 @@
 /Users/aaa/Projects/MusiClasifica1/MusiClasifica1/obj/iPhoneSimulator/Debug/device-builds/ipad5.4-10.3/actool/_PartialAppManifest.items
 /Users/aaa/Projects/MusiClasifica1/MusiClasifica1/obj/iPhoneSimulator/Debug/device-builds/ipad5.4-10.3/actool/_BundleResourceWithLogicalName.items
 /Users/aaa/Projects/MusiClasifica1/MusiClasifica1/obj/iPhoneSimulator/Debug/device-builds/ipad5.4-10.3/optimized/
+/Users/aaa/Projects/MusiClasifica1/MusiClasifica1/obj/iPhoneSimulator/Debug/device-builds/ipad5.4-10.3/ibtool/_BundleResourceWithLogicalName.items

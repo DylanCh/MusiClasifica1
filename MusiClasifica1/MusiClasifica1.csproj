@@ -9,6 +9,7 @@
     <RootNamespace>MusiClasifica1</RootNamespace>
     <AssemblyName>MusiClasifica1</AssemblyName>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
+    <Authors>Hanjun Chen</Authors>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
     <DebugSymbols>true</DebugSymbols>
@@ -91,6 +92,10 @@
     <ImageAsset Include="Assets.xcassets\Contents.json" />
     <ImageAsset Include="Resources\Assets.xcassets\sticker.imageset\Contents.json" />
     <ImageAsset Include="Resources\Assets.xcassets\sticker.imageset\parental_advisory_sticker.jpg" />
+    <ImageAsset Include="Resources\Assets.xcassets\applaunchlogo.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Assets.xcassets\applaunchlogo.imageset\Screen Shot 2017-06-04 at 12.27.55 AM.png" />
+    <ImageAsset Include="Resources\Assets.xcassets\applaunchlogo1.imageset\Contents.json" />
+    <ImageAsset Include="Resources\Assets.xcassets\applaunchlogo1.imageset\Screen Shot 2017-06-04 at 12.29.43 AM.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />

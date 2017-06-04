@@ -1,11 +1,10 @@
 ﻿<Properties StartupConfiguration="{09A2337F-538D-45E5-BA30-521E91AC2561}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MusiClasifica1/Info.plist">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MusiClasifica1/ViewController.cs">
     <Files>
       <File FileName="MusiClasifica1/AppDelegate.cs" Line="10" Column="3" />
-      <File FileName="MusiClasifica1/ViewController.cs" Line="57" Column="21" />
+      <File FileName="MusiClasifica1/ViewController.cs" Line="30" Column="30" />
       <File FileName="MusiClasifica1/Model.cs" Line="3" Column="25" />
       <File FileName="MusiClasifica1/Main.cs" Line="12" Column="1" />
-      <File FileName="MusiClasifica1/Info.plist" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />

@@ -27,6 +27,7 @@ namespace MusiClasifica1
 			// Perform any additional setup after loading the view, typically from a nib.
 			analyzeBtn.TouchUpInside += delegate
 			{
+				stickerView.Image = null;
 				var request = WebRequest.Create(URL + imageurl.Text);
 				request.ContentType = "application/json";
 				request.Method = "GET";
