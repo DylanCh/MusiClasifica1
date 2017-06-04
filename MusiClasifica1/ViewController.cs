@@ -107,6 +107,12 @@ namespace MusiClasifica1
 					}
 				}
 			}; // end analyze button
+
+			lyricsAnalyzeBtn.TouchUpInside += delegate
+			{
+				UIApplication.SharedApplication.OpenUrl(new NSUrl("https://musiclasificaversion2.mybluemix.net/Home/Lyrics"));
+			};
+
 		}
 
 		public override void DidReceiveMemoryWarning()
@@ -133,5 +139,7 @@ namespace MusiClasifica1
 			using (var data = NSData.FromUrl(url))
 				return UIImage.LoadFromData(data);
 		}
+
+
 	}
 }

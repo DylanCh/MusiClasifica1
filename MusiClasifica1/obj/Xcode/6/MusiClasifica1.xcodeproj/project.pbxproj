@@ -1,0 +1,234 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D11A5AC40000000000000000 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 583C74000000000000000000 /* UIKit.framework */; };
+		3F1238920000000000000000 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C63451CE0000000000000000 /* MapKit.framework */; };
+		760E27790000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD3040B50000000000000000 /* Foundation.framework */; };
+		AD0A16600000000000000000 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 342C2F9C0000000000000000 /* CoreGraphics.framework */; };
+		747D865E0000000000000000 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB9F9F9A0000000000000000 /* Assets.xcassets */; };
+		B6DD40540000000000000000 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DFF59900000000000000000 /* LaunchScreen.storyboard */; };
+		415D83120000000000000000 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C87F9C4E0000000000000000 /* Main.storyboard */; };
+		F13758BD0000000000000000 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 785971F90000000000000000 /* Info.plist */; };
+		764497000000000000000000 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = FD66B03C0000000000000000 /* Entitlements.plist */; };
+		AF0796890000000000000000 /* ViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 3629AFC50000000000000000 /* ViewController.h */; };
+		178C6FDC0000000000000000 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EAE89180000000000000000 /* ViewController.m */; };
+		AADDE0970000000000000000 /* AppDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = 31FFF9D30000000000000000 /* AppDelegate.h */; };
+		EAAAFD7B0000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 71CD16B70000000000000000 /* AppDelegate.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		84A024480000000000000000 /* MusiClasifica1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "MusiClasifica1.app"; path = "MusiClasifica1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		583C74000000000000000000 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "UIKit.framework"; path = "System/Library/Frameworks/UIKit.framework"; sourceTree = SDKROOT; };
+		C63451CE0000000000000000 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "MapKit.framework"; path = "System/Library/Frameworks/MapKit.framework"; sourceTree = SDKROOT; };
+		FD3040B50000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
+		342C2F9C0000000000000000 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "CoreGraphics.framework"; path = "System/Library/Frameworks/CoreGraphics.framework"; sourceTree = SDKROOT; };
+		FB9F9F9A0000000000000000 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = "Assets.xcassets"; path = "Assets.xcassets"; sourceTree = "<group>"; };
+		3DFF59900000000000000000 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "LaunchScreen.storyboard"; path = "LaunchScreen.storyboard"; sourceTree = "<group>"; };
+		C87F9C4E0000000000000000 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "Main.storyboard"; path = "Main.storyboard"; sourceTree = "<group>"; };
+		785971F90000000000000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info.plist"; path = "Info.plist"; sourceTree = "<group>"; };
+		FD66B03C0000000000000000 /* Entitlements.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Entitlements.plist"; path = "Entitlements.plist"; sourceTree = "<group>"; };
+		3629AFC50000000000000000 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "ViewController.h"; path = "ViewController.h"; sourceTree = "<group>"; };
+		9EAE89180000000000000000 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "ViewController.m"; path = "ViewController.m"; sourceTree = "<group>"; };
+		31FFF9D30000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
+		71CD16B70000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		94F931B90000000000000000 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D11A5AC40000000000000000 /* UIKit.framework in Frameworks */,
+				3F1238920000000000000000 /* MapKit.framework in Frameworks */,
+				760E27790000000000000000 /* Foundation.framework in Frameworks */,
+				AD0A16600000000000000000 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A78EEFB00000000000000000 = {
+			isa = PBXGroup;
+			children = (
+				66CE70CF0000000000000000 /* MusiClasifica1 */,
+				DC4E2E110000000000000000 /* Frameworks */,
+				38A3AFE50000000000000000 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		38A3AFE50000000000000000 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				84A024480000000000000000 /* MusiClasifica1.app */,
+			);
+			name = "Products";
+			sourceTree = "<group>";
+		};
+		DC4E2E110000000000000000 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				583C74000000000000000000 /* UIKit.framework */,
+				C63451CE0000000000000000 /* MapKit.framework */,
+				FD3040B50000000000000000 /* Foundation.framework */,
+				342C2F9C0000000000000000 /* CoreGraphics.framework */,
+			);
+			name = "Frameworks";
+			sourceTree = "<group>";
+		};
+		66CE70CF0000000000000000 /* MusiClasifica1 */ = {
+			isa = PBXGroup;
+			children = (
+				31FFF9D30000000000000000 /* AppDelegate.h */,
+				FB9F9F9A0000000000000000 /* Assets.xcassets */,
+				FD66B03C0000000000000000 /* Entitlements.plist */,
+				785971F90000000000000000 /* Info.plist */,
+				3DFF59900000000000000000 /* LaunchScreen.storyboard */,
+				C87F9C4E0000000000000000 /* Main.storyboard */,
+				3629AFC50000000000000000 /* ViewController.h */,
+				B265C00B0000000000000000 /* Supporting Files */,
+			);
+			name = "MusiClasifica1";
+			sourceTree = "<group>";
+		};
+		B265C00B0000000000000000 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				71CD16B70000000000000000 /* AppDelegate.m */,
+				9EAE89180000000000000000 /* ViewController.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		99A0A9C40000000000000000 /* MusiClasifica1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EF39D8940000000000000000 /* Build configuration list for PBXNativeTarget "MusiClasifica1" */;
+			buildPhases = (
+				7870CCC90000000000000000 /* Sources */,
+				94F931B90000000000000000 /* Frameworks */,
+				86B4FF410000000000000000 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "MusiClasifica1";
+			productName = "MusiClasifica1";
+			productReference = 84A024480000000000000000 /* MusiClasifica1.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6602E45F0000000000000000 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1D64997E0000000000000000 /* Build configuration list for PBXProject "MusiClasifica1" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = A78EEFB00000000000000000;
+			productRefGroup = 38A3AFE50000000000000000 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				99A0A9C40000000000000000 /* MusiClasifica1 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		86B4FF410000000000000000 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				747D865E0000000000000000 /* Assets.xcassets in Resources */,
+				B6DD40540000000000000000 /* LaunchScreen.storyboard in Resources */,
+				415D83120000000000000000 /* Main.storyboard in Resources */,
+				F13758BD0000000000000000 /* Info.plist in Resources */,
+				764497000000000000000000 /* Entitlements.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7870CCC90000000000000000 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AF0796890000000000000000 /* ViewController.h in Sources */,
+				178C6FDC0000000000000000 /* ViewController.m in Sources */,
+				AADDE0970000000000000000 /* AppDelegate.h in Sources */,
+				EAAAFD7B0000000000000000 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F29802160000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				SDKROOT = iphoneos;
+			};
+			name = MonoTouch;
+		};
+		4B8F5A680000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				PRODUCT_NAME = "MusiClasifica1";
+				WRAPPER_EXTENSION = app;
+			};
+			name = MonoTouch;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D64997E0000000000000000 /* Build configuration list for PBXProject "MusiClasifica1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F29802160000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+		EF39D8940000000000000000 /* Build configuration list for PBXNativeTarget "MusiClasifica1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4B8F5A680000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6602E45F0000000000000000 /* Project object */;
+}
