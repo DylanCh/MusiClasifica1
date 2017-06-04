@@ -1,0 +1,13 @@
+/Users/aaa/Projects/MusiClasifica1/MusiClasifica1/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/aaa/Projects/MusiClasifica1/MusiClasifica1/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/aaa/Projects/MusiClasifica1/MusiClasifica1/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3/actool/_PartialAppManifest.items
+/Users/aaa/Projects/MusiClasifica1/MusiClasifica1/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/aaa/Projects/MusiClasifica1/MusiClasifica1/obj/iPhoneSimulator/Debug/device-builds/ipad6.4-10.3/optimized/
+/Users/aaa/Projects/MusiClasifica1/MusiClasifica1/bin/iPhoneSimulator/Debug/MusiClasifica1.pdb
+/Users/aaa/Projects/MusiClasifica1/MusiClasifica1/bin/iPhoneSimulator/Debug/MusiClasifica1.exe
+/Users/aaa/Projects/MusiClasifica1/MusiClasifica1/obj/iPhoneSimulator/Debug/MusiClasifica1.exe
+/Users/aaa/Projects/MusiClasifica1/MusiClasifica1/obj/iPhoneSimulator/Debug/MusiClasifica1.pdb
+/Users/aaa/Projects/MusiClasifica1/MusiClasifica1/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/aaa/Projects/MusiClasifica1/MusiClasifica1/obj/iPhoneSimulator/Debug/device-builds/ipad5.4-10.3/actool/_PartialAppManifest.items
+/Users/aaa/Projects/MusiClasifica1/MusiClasifica1/obj/iPhoneSimulator/Debug/device-builds/ipad5.4-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/aaa/Projects/MusiClasifica1/MusiClasifica1/obj/iPhoneSimulator/Debug/device-builds/ipad5.4-10.3/optimized/
