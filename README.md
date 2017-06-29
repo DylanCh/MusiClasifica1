@@ -1,4 +1,5 @@
 # MusiClasifica1
 Xamarin iOS app integrate with IBM Watson Visual Recognition for detecting inappropriate contents in record album arts and lyrics.
 
-![](http://imgur.com/21a35201-5a03-4767-8532-af8325c888c1)
+![PG cover](http://i.imgur.com/tfIVtX0.png)
+![Good cover](http://i.imgur.com/eD4YIVA.png)
